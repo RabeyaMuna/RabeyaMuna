@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabeya-muna&label=Profile%20views&color=0e75b6&style=flat" alt="rabeya-muna" /> </p>
 
-- 🔭 I’m currently working on [Phoenixm](https://phoenixm.selise.tech/)
+- 🔭 I’m currently working on hotwire based projects
 
-- 🌱 I’m currently learning **React.js,**
+- 🌱 I’m currently learning **React.js, Docker, Data Science techniques, Unsupervised Learning**
 
 - 💬 Ask me about **Ruby on Rails, Stimulus.js, JavaScript, Machine Learning, Supervised Learning**
 
